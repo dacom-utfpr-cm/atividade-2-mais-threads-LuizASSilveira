@@ -31,6 +31,4 @@ public class main {
             arrayThred.get(i).start();
         }
     }
-
-
 }
